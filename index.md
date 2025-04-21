@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+Page Example: Welcome to my blog
 ---
 
+content
